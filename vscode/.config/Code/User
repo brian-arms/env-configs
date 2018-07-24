@@ -1,3 +1,11 @@
 {
-    "editor.trimAutoWhitespace": true
+  "editor.formatOnPaste": true,
+  "editor.renderWhitespace": "boundary",
+  "files.eol": "\n",
+  "files.trimTrailingWhitespace": true,
+  "workbench.colorTheme": "Monokai Dimmed",
+  "workbench.colorCustomizations": {
+    "editorIndentGuide.background": "#333333",
+    "editorWhitespace.foreground": "#333333"
+  },
 }
