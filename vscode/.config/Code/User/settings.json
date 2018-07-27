@@ -2,6 +2,9 @@
   "editor.formatOnPaste": true,
   "editor.renderWhitespace": "boundary",
   "files.eol": "\n",
+  "files.exclude": {
+    "**/.git": false,
+  },
   "files.trimTrailingWhitespace": true,
   "workbench.colorTheme": "Monokai Dimmed",
   "workbench.colorCustomizations": {
